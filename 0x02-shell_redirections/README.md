@@ -3,3 +3,4 @@ This project explore various I/O redirections
 1. print the confused simily 
 This prints the contents of /etc/passwd
 3. Print the output of two files etc/passwd and etc/hosts
+4.Print the tail of etc/passwd
