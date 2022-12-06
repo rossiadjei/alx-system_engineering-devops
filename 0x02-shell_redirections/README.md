@@ -9,3 +9,4 @@ This prints the contents of /etc/passwd
 7.The special characters was scaped using the back slash
 8. Redirects the content of ls -la to a file
 11. count directories and subdirectories
+12. Display 10 newest files
