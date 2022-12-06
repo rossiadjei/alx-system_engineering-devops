@@ -12,3 +12,4 @@ This prints the contents of /etc/passwd
 12. Display 10 newest files
 13. Print unique ouputs
 14. displays pattern of the form root
+15. find patterns in the form of bin
