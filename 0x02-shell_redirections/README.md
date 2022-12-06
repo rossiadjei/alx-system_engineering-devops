@@ -10,3 +10,4 @@ This prints the contents of /etc/passwd
 8. Redirects the content of ls -la to a file
 11. count directories and subdirectories
 12. Display 10 newest files
+13. Print unique ouputs
