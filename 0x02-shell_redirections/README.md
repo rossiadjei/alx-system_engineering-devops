@@ -7,3 +7,4 @@ This prints the contents of /etc/passwd
 5. prints the head of etc/passwd
 6. Print the 3rd line without using sed
 7.The special characters was scaped using the back slash
+8. Redirects the content of ls -la to a file
